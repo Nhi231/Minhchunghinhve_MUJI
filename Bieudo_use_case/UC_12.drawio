@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="SAxQf6CyjC8i2oOONpBh">
+    <mxGraphModel dx="774" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j_Ea-En5ltc0JliHkpk4-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;" value="Người dùng" vertex="1">
+          <mxGeometry height="60" width="30" x="233" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Ea-En5ltc0JliHkpk4-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Thanh toán&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="393" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Ea-En5ltc0JliHkpk4-3" edge="1" parent="1" source="j_Ea-En5ltc0JliHkpk4-1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j_Ea-En5ltc0JliHkpk4-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="415" y="303" as="sourcePoint" />
+            <mxPoint x="515" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

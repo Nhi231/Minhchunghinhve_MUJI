@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="DK-yduJ0GgJYTQ4n0uD9">
+    <mxGraphModel dx="586" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IMpraPr15Vk1jzBesTLv-315" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Người dùng&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="26" x="254" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-316" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#000000;" value="Xem chi tiết sản phẩm" vertex="1">
+          <mxGeometry height="56" width="132" x="420" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-317" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IMpraPr15Vk1jzBesTLv-316" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="294" y="350" as="sourcePoint" />
+            <mxPoint x="534" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="DK-yduJ0GgJYTQ4n0uD9">
+    <mxGraphModel dx="890" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IMpraPr15Vk1jzBesTLv-75" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;fillColor=#D5E8D4;" value="Người dùng" vertex="1">
+          <mxGeometry height="60" width="30" x="183" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-76" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem thông tin cá nhân&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sửa thông tin&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;cá nhân&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Đổi mật khẩu&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-79" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Xóa địa chỉ&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;giao hàng&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-80" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Đặt địa chỉ mặc định&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Thêm địa chỉ giao hàng&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-82" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sửa địa chỉ giao hàng&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-83" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Vô hiệu hóa tài khoản&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="323" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-84" edge="1" parent="1" source="IMpraPr15Vk1jzBesTLv-75" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.021;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" target="IMpraPr15Vk1jzBesTLv-76" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="213" y="320" as="sourcePoint" />
+            <mxPoint x="603" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-85" edge="1" parent="1" source="IMpraPr15Vk1jzBesTLv-75" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="IMpraPr15Vk1jzBesTLv-77" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="203" y="360" as="sourcePoint" />
+            <mxPoint x="336" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-86" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IMpraPr15Vk1jzBesTLv-78" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="223" y="390" as="sourcePoint" />
+            <mxPoint x="333" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-87" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=-0.006;entryY=0.427;entryDx=0;entryDy=0;entryPerimeter=0;" target="IMpraPr15Vk1jzBesTLv-81" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="213" y="400" as="sourcePoint" />
+            <mxPoint x="333" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-88" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.025;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" target="IMpraPr15Vk1jzBesTLv-82" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="213" y="400" as="sourcePoint" />
+            <mxPoint x="332" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-89" edge="1" parent="1" source="IMpraPr15Vk1jzBesTLv-75" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.037;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" target="IMpraPr15Vk1jzBesTLv-79" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="223" y="370" as="sourcePoint" />
+            <mxPoint x="336" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-90" edge="1" parent="1" source="IMpraPr15Vk1jzBesTLv-75" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.05;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" target="IMpraPr15Vk1jzBesTLv-80" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="213" y="380" as="sourcePoint" />
+            <mxPoint x="338" y="497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMpraPr15Vk1jzBesTLv-91" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.031;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;" target="IMpraPr15Vk1jzBesTLv-83" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="223" y="420" as="sourcePoint" />
+            <mxPoint x="340" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
